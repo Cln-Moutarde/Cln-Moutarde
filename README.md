@@ -1,11 +1,16 @@
 ### Hi there 👋
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Cln-Moutarde&layout=compact&theme=dark&show_icons=true)"/>
-</a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cln-Moutarde&layout=compact&theme=dark&show_icons=true)
-
-
+<p align="center"
+   <a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cln-Moutarde&layout=compact&theme=dark&show_icons=true">
+    </a>
+    <a>
+      <img src="https://streak-stats.demolab.com/?user=Cln-Moutarde&theme=dark">
+    </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,electron,py,github,blender,discord&theme=dark&perline=6" />
+  </a>
+  
+</p>
 <!--
 **Cln-Moutarde/Cln-Moutarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
