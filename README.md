@@ -6,7 +6,7 @@
     <a>
       <img src="https://streak-stats.demolab.com/?user=Cln-Moutarde&theme=dark">
     </a>
-    <a href="https://skillicons.dev">
+    <a>
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,electron,py,github,blender,discord&theme=dark&perline=6" />
   </a>
   
