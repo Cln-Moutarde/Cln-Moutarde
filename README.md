@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cln-Moutarde&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cln-Moutarde)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cln-Moutarde&layout=compact&theme=dark&show_icons=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cln-Moutarde&theme=dark&show_icons=true)
 
 <!--
 **Cln-Moutarde/Cln-Moutarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
