@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Cln-Moutarde&layout=compact&theme=dark&show_icons=true)"/>
+</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cln-Moutarde&layout=compact&theme=dark&show_icons=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cln-Moutarde&theme=dark&show_icons=true)
+
 
 <!--
 **Cln-Moutarde/Cln-Moutarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
